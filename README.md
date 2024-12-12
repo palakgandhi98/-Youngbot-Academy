@@ -1,11 +1,11 @@
-# 🧠 Machine Learning & Deep Learning Internship Projects  
+# 🧠 Python Programming Internship Projects  
 
-Welcome to my repository of projects completed during my internship, focusing on **Machine Learning** and **Deep Learning**. These projects demonstrate a variety of techniques and tools I worked on, showcasing my journey and growth in AI.  
+Welcome to my repository of projects completed during my internship, focusing on **Python Programming**. These projects demonstrate a variety of techniques and tools I worked on, showcasing my journey and growth in AI.  
 
 --- 
 
 ## 🌟 **Overview**  
-This repository contains a collection of machine learning and deep learning projects developed as part of my internship. The projects range from regression models to advanced neural networks, covering topics like data preprocessing, feature engineering, model building, and evaluation.
+This repository contains a collection of Python Programming projects developed as part of my internship. The projects range from regression models to advanced neural networks, covering topics like data preprocessing, feature engineering, model building, and evaluation.
 
 ---
 
@@ -18,28 +18,58 @@ Each project has its own folder containing:
 ---
 
 ## 📜 **Table of Contents**  
-1. [🏠 Diabetes Prediction](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
-2. [🖼️ Image Classification with CNNs](#image-classification-with-cnns)  
-3. [💬 Sentiment Analysis with NLP](#sentiment-analysis-with-nlp)  
+1. [👩‍🎓 Student Database](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
+2. [🏧 Simple Banking System](#image-classification-with-cnns)  
+3. [☁ Weather API](#sentiment-analysis-with-nlp)  
 
 ---
 
 ## 💻 **Projects**  
 
-### 🏠 **Predicting House Prices**  
-- **Description:** Built a multi classification model to predict Diabetes using the Kaggle Diabetes Dataset.  
-- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib 
+## 🏠 **Student Database**  
+- **Description:** **Student Database Management System** is a web application built using **Streamlit**, **MySQL**, and **Python**. It allows users to store, manage, and visualize student records, including student names, ages, and grades. Users can add new students, view the list of students, update existing student records, and delete student records.  
+- **Tech Stack:** Python, Stremlit, MySQL, Pandas 
 - **Key Features:**  
-  - Data cleaning and preprocessing  
-  - Feature engineering  
-  - Hyperparameter tuning  
+   - **Add Student**: Add a new student to the database by entering their name, age, and grade.
+   - **View Students**: View the list of all students in a tabular format, with the option to download the records as **CSV** or **Excel**.
+   - **Update Student**: Select a student to update their details, such as name, age, and grade.
+   - **Delete Student**: Select a student to delete their record from the database. 
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+---
+
+## 🏠 **Simple Banking System**  
+- **Description:** This is a banking system application built with **`Python`**, **`Streamlit`**, and **`MySQL`**. The application allows users to create accounts, perform transactions (deposits, withdrawals, transfers), view transaction history, and close accounts. It uses environment variables to manage database credentials securely and ensures data integrity with proper error handling and security measures.  
+- **Tech Stack:** Python, Stremlit, MySQL, Pandas 
+- **Key Features:**  
+   - **User Registration and Login**
+   - **Account Management**
+      - Create accounts
+      - View account details
+      - Close accounts
+   - **Transactions**
+      - Deposit funds
+      - Withdraw funds
+      - Transfer funds between accounts
+      - View transaction history
+   - **Secure Password Management**
+   - **Environment Variable Configuration** 
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+---
+
+## 🏠 **Weather API**  
+- **Description:** A simple weather dashboard built using [Streamlit](https://streamlit.io/) and the [OpenWeatherMap API](https://openweathermap.org/). This app allows users to enter a city name and get the current weather as well as a 5-day weather forecast.  
+- **Tech Stack:** Python, Stremlit, Pandas 
+- **Key Features:**  
+   - Displays the **current weather** of the entered city, including temperature, humidity, wind speed, and a weather description.
+   - Shows a **5-day weather forecast**, including the temperature and weather description for each day.
+   - Responsive layout with clear and concise information about the weather.
 - **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
 ---
 
 ## 🛠️ **Technologies Used**  
 - **Programming Languages:** Python  
-- **Libraries & Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK  
-- **Tools:** Jupyter Notebook, VS Code  
+- **Libraries & Frameworks:** Streamlit, MySQL, Pandas 
+- **Tools:** VS Code  
 
 ---
 
