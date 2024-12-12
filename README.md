@@ -18,9 +18,9 @@ Each project has its own folder containing:
 ---
 
 ## 📜 **Table of Contents**  
-1. [👩‍🎓 Student Database](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
-2. [🏧 Simple Banking System](#image-classification-with-cnns)  
-3. [☁ Weather API](#sentiment-analysis-with-nlp)  
+1. [👩‍🎓 Student Database](https://github.com/palakgandhi98/Youngbot-Academy/tree/main/yba_task1_Student%20Database#-banking-system)  
+2. [🏧 Simple Banking System](https://github.com/palakgandhi98/Youngbot-Academy/tree/main/yba_task2_Simple%20banking%20system)  
+3. [☁ Weather API](https://github.com/palakgandhi98/Youngbot-Academy/tree/main/yba_task3_Weather%20API)  
 
 ---
 
@@ -34,7 +34,7 @@ Each project has its own folder containing:
    - **View Students**: View the list of all students in a tabular format, with the option to download the records as **CSV** or **Excel**.
    - **Update Student**: Select a student to update their details, such as name, age, and grade.
    - **Delete Student**: Select a student to delete their record from the database. 
-- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Youngbot-Academy/tree/main/yba_task1_Student%20Database#-banking-system)
 ---
 
 ## 🏠 **Simple Banking System**  
@@ -53,7 +53,7 @@ Each project has its own folder containing:
       - View transaction history
    - **Secure Password Management**
    - **Environment Variable Configuration** 
-- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Youngbot-Academy/tree/main/yba_task2_Simple%20banking%20system)
 ---
 
 ## 🏠 **Weather API**  
@@ -63,7 +63,7 @@ Each project has its own folder containing:
    - Displays the **current weather** of the entered city, including temperature, humidity, wind speed, and a weather description.
    - Shows a **5-day weather forecast**, including the temperature and weather description for each day.
    - Responsive layout with clear and concise information about the weather.
-- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Youngbot-Academy/tree/main/yba_task3_Weather%20API)
 ---
 
 ## 🛠️ **Technologies Used**  
