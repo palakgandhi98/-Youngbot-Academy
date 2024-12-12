@@ -2,6 +2,8 @@
 
 A simple weather dashboard built using [Streamlit](https://streamlit.io/) and the [OpenWeatherMap API](https://openweathermap.org/). This app allows users to enter a city name and get the current weather as well as a 5-day weather forecast.
 
+![Weather_app](https://github.com/user-attachments/assets/776751cf-fb72-4fb2-baba-93de51943a80)
+
 --- 
 
 - [🎓 Student Database Management System](#-banking-system)
