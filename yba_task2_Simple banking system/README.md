@@ -2,6 +2,7 @@
 
 This is a banking system application built with **`Python`**, **`Streamlit`**, and **`MySQL`**. The application allows users to create accounts, perform transactions (deposits, withdrawals, transfers), view transaction history, and close accounts. It uses environment variables to manage database credentials securely and ensures data integrity with proper error handling and security measures.
 
+![Banking ](https://github.com/user-attachments/assets/b1e88cb7-49ef-4af6-ba1b-3895b2860c2a)
 
 ---
 
