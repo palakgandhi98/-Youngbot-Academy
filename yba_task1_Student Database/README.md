@@ -5,6 +5,9 @@
 
 This application also supports downloading the student records in both **CSV** and **Excel** formats.
 
+![Student Database System](https://github.com/user-attachments/assets/1170b0dc-b32a-4561-9993-c6d9b8a85351)
+
+
 ---
 - [🎓 Student Database Management System](#-banking-system)
   - [Features](#features)
